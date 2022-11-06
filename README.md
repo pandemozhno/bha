@@ -14,4 +14,4 @@ Example
 
 data collapsed for pairs 10 || 01 = 0 in result, 11 || 00 = 1 in result
 
-> the same one once nothing
+> the same one, once nothing
