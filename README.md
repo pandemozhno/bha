@@ -1,4 +1,4 @@
-# bha
+# bha hashing
 
 ![Black Hole Logo](https://github.com/pandemozhno/bha/blob/main/logo.png?raw=true)
 
